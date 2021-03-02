@@ -1,0 +1,49 @@
+
+.logo{
+    width: 100px;
+}
+
+.news{
+  margin:auto;
+  border: #45b39e;
+}
+
+.newsrow{
+  margin: 20px 20px 20px 20px;
+}
+
+.navnews{
+  margin-bottom: 20px;
+}
+
+.container{
+  border-radius: 5%;
+}
+
+.buttonnews{
+  border-bottom:  20px;
+}
+
+
+
+.logo-footer {
+    font-size: 2em;
+    font-family: 'thaisans_neue';
+  }
+.logo-footer span {
+    display: block;
+    font-size: 100%;
+  }
+  .logo-footer .line-white {
+    color: white;
+    font-size: 1em;
+  }
+  .logo-footer .line-yellow {
+    font-size: 1.2em;
+    color: #ffd550;
+  }
+  .logo-footer .line-name {
+    padding-top: 4px;
+    color: #45b39e;
+    font-size: 90%;
+  }
