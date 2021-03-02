@@ -1,7 +1,7 @@
 *** Settings ***
 Library    SeleniumLibrary
 *** Variables ***
-${HOMEPAGE}    http://localhost:8080/Test/Home.html
+${HOMEPAGE}    Home.html
 ${BROWSER}    chrome
 *** Keywords ***
 OPEN Home.html
